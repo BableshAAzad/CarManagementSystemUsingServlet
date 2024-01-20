@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+.update {
+	background-color: "blue";
+	color: "white";
+}
+
+.delete {
+	background-color: "red";
+	color: "white";
+}
+
+#carid{
+	color: "green";
+}
